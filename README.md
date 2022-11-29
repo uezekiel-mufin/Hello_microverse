@@ -1,13 +1,13 @@
 # Hello Microverse
 
-- Hello Microverse is a project to master all of the tools and best practices i have learnt today. examples includes, Linters, GitHub flow etc
+Hello Microverse is a project to master all of the tools and best practices i have learnt today. examples includes, Linters, GitHub flow etc
 
 # Built With
 
-- This Project was built with the following technologies
+This Project was built with the following technologies
 
-* HTML
-* CSS
+- HTML
+- CSS
 
 # Key Feature
 
@@ -15,9 +15,7 @@
 
 # Getting Started
 
-- To get a local copy up and running, follow these steps.
-
-### Prerequisites
+To get a local copy up and running, follow these steps.
 
 ### Setup
 
@@ -25,7 +23,7 @@
 
 ### Install
 
-- Install this project with: Node package manager (NPM)
+- Install this project with Node package manager (NPM)
 
 ### Deployment
 
